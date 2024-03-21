@@ -989,10 +989,10 @@ section,
 }
 
 .about .content h3 {
-  font-size: 16px;
-  font-weight: 500;
-  line-height: 19px;
-  padding: 10px 20px;
+  font-size: 36px;
+  font-weight: 600;
+  line-height: 25px;
+  padding: 10px 30px;
   background: rgba(var(--accent-color-rgb), 0.05);
   color: var(--accent-color);
   border-radius: 7px;
